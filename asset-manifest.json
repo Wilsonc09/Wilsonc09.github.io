@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f61baae2.css",
+    "main.js": "/static/js/main.28ae7f92.js",
+    "static/media/trabajoins.jpg": "/static/media/trabajoins.2651477bd8b3d71ab80f.jpg",
+    "static/media/three.png": "/static/media/three.4956e66c2786548505dd.png",
+    "static/media/one.png": "/static/media/one.058f09f05f905b2e94c9.png",
+    "static/media/two.png": "/static/media/two.3f764d5a58644906b84f.png",
+    "static/media/obrasocial.jpg": "/static/media/obrasocial.d014bca663d6eb8bfec3.jpg",
+    "static/media/program.jpg": "/static/media/program.6847780d3a443552735a.jpg",
+    "static/media/comohacer.jpg": "/static/media/comohacer.68c79e7aad612f6fb9d1.jpg",
+    "static/media/beneficiarios.png": "/static/media/beneficiarios.cbd6ee3fa68677808aea.png",
+    "static/media/nature.png": "/static/media/nature.435b3803fff866d47198.png",
+    "static/media/contacto.png": "/static/media/contacto.d3e03edf15f82dd92ea9.png",
+    "static/media/person3.jpg": "/static/media/person3.c05cc677c086c1e648b8.jpg",
+    "static/media/person4.jpg": "/static/media/person4.f619722dbc1775c3d301.jpg",
+    "static/media/person1.jpg": "/static/media/person1.579ff7129245dbc7d78f.jpg",
+    "static/media/person2.jpg": "/static/media/person2.20eb1337d5a2ebd985e0.jpg",
+    "static/media/four.jpg": "/static/media/four.536a5200ec8c9d30f800.jpg",
+    "static/media/LogoExtend.jpg": "/static/media/LogoExtend.8db90c47309c507d9c7f.jpg",
+    "static/media/Logo.jpg": "/static/media/Logo.3bab900c5315d5d60341.jpg",
+    "index.html": "/index.html",
+    "main.f61baae2.css.map": "/static/css/main.f61baae2.css.map",
+    "main.28ae7f92.js.map": "/static/js/main.28ae7f92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f61baae2.css",
+    "static/js/main.28ae7f92.js"
+  ]
+}
